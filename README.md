@@ -22,3 +22,14 @@ Python yüklü bir sistemde projeyi çalıştırmak için gerekli kütüphaneler
 3. Gerekli paketleri yükleyin:
    ```bash
    pip install WMI mss pillow pystray
+4. Uygulamayı başlatın:
+   ```bash
+   python excaglow_v5.3.7.pyw
+
+## 🚀 Kurulum (Kullanıcılar İçin)
+1. Depoyu bilgisayatınıza indirin.
+2. ExcaglowV5.4.7.exe dosyasını çalştırarak uygulamaya erişebilirsiniz.
+
+
+
+Excalibur G870 vb. anakart tipinde çalıştırılabilir.
