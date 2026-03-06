@@ -4,6 +4,11 @@ Casper Excalibur serisi dizüstü bilgisayarlar için geliştirilmiş, WMI (Wind
 
 Varsayılan yazılımın ötesine geçerek ekrandaki renklere duyarlı aydınlatma (Ambiant), akıcı dalga efektleri ve detaylı renk paletleri sunar.
 
+## 📝 Projenin Hikayesi ve Atıflar
+Bu proje, **Mustafa-eksi**'nin Linux sistemler için geliştirdiği [casper-wmi](https://github.com/Mustafa-eksi/casper-wmi) sürücüsündeki mantık ve donanım adresleme verileri temel alınarak geliştirilmiştir. 
+
+Orijinal projedeki Linux tabanlı WMI erişim mantığı, yapay zeka yardımıyla modernize edilmiş ve tamamen Windows uyumlu bir Python uygulamasına dönüştürülmüştür. Katkıları için [Mustafa-eksi](https://github.com/Mustafa-eksi)'ye teşekkürler!
+
 ## ✨ Özellikler
 
 * **🌅 Ambiant Modu:** Ekrandaki renkleri gerçek zamanlı analiz ederek klavye ışıklarını ekranla senkronize eder.
